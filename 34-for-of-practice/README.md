@@ -10,15 +10,15 @@ An array called `numbers` is provided. Use a `for...of` loop to iterate over the
 
 The output should be:
 
-1
-4
-9
-16
-25
-36
-49
-64
-81
+1\
+4\
+9\
+16\
+25\
+36\
+49\
+64\
+81\
 
 ## Solution
 
