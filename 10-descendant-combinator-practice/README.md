@@ -21,7 +21,7 @@ The solution is implemented in `app.css`. The CSS rules use the descendant combi
 ## Key Concepts Demonstrated
 
 *   CSS Selectors:
-    *   Descendant Combinator (e.g., `header a`, `#dislikes a`)
+    *   Descendant Combinators
 
 ## How to Run
 
