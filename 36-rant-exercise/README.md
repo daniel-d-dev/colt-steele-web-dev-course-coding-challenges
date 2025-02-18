@@ -6,8 +6,8 @@ This exercise practices defining and calling a function that accepts an argument
 
 Define a function called `rant` that accepts a single string argument named `message`. The function should print the uppercase version of the `message` string to the console *three separate times*. For example, calling `rant("I hate beets")` should produce the following output:
 
-I HATE BEETS
-I HATE BEETS
+I HATE BEETS\
+I HATE BEETS\
 I HATE BEETS
 
 ## Solution
