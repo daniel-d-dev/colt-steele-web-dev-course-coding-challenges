@@ -18,8 +18,7 @@ The solution is implemented in `styles.css`.  The `:nth-of-type(even)` and `:nth
 ## Key Concepts Demonstrated
 
 *   CSS Selectors:
-    *   `:nth-of-type(even)`
-    *   `:nth-of-type(odd)`
+    *   `:nth-of-type`
 
 ## How to Run
 
